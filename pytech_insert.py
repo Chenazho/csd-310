@@ -10,7 +10,8 @@ post = {"_id": 1007, "First Name": "Luka" , "Last Name": "Lazalde"}
 post = {"_id": 1008, "First Name": "Matias" , "Last Name": "Lazalde"}
 
 post = {"_id": 1009, "First Name": "Julieta" , "Last Name": "Lazalde"}
-post = {"_id": 1010, "First Name": "Luna" , "Last Name": "Lazalde"}
+
+post = {"_id": 1010, "First Name": "Luna" , "Last Name": "Doggy"}
 
 
 collection.insert_one(post)
